@@ -5,7 +5,11 @@ This is a React application template <small>with Vite, TypeScript, TailwindCSS a
 ## Setup
 
 ```shell
-git clone https://github.com/lollipop-onl/react-app.git
+# clone repository or use template
+git clone https://github.com/lollipop-onl/react-app.git my-project
+
+# move to project dirctory
+cd my-project
 ```
 
 ```shell
