@@ -15,20 +15,25 @@
   "scripts": {
     "build": "vite build",
     "dev": "vite",
-    "format": "prettier --write --loglevel warn \"**/*.{ts,tsx,js,jsx,json,yml,yaml}\""
+    "format": "prettier --write --loglevel warn \"**/*.{ts,tsx,cjs,js,html,json,yml,yaml}\""
   },
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
+    "@tailwindcss/typography": "^0.5.8",
     "@tsconfig/vite-react": "^1.0.1",
     "@types/react": "^18.0.25",
     "@types/react-dom": "^18.0.9",
     "@vitejs/plugin-react": "^2.2.0",
+    "autoprefixer": "^10.4.13",
+    "daisyui": "^2.42.1",
+    "postcss": "^8.4.19",
     "prettier": "^2.8.0",
     "prettier-plugin-packagejson": "^2.3.0",
     "prettier-plugin-tailwindcss": "^0.2.0",
+    "tailwindcss": "^3.2.4",
     "typescript": "^4.9.3",
     "vite": "^3.2.4",
     "vite-tsconfig-paths": "^3.6.0"
