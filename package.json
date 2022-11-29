@@ -1,6 +1,23 @@
 {
-  "name": "react-boilerplate",
+  "name": "react-app",
   "version": "1.0.0",
-  "main": "index.js",
-  "license": "MIT"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lollipop-onl/react-app"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "simochee",
+    "email": "lollipop@simochee.net",
+    "url": "https://github.com/lollipop-onl"
+  },
+  "type": "module",
+  "scripts": {
+    "format": "prettier --write --loglevel warn \"**/*.{ts,tsx,js,jsx,json,yml,yaml}\""
+  },
+  "devDependencies": {
+    "prettier": "^2.8.0",
+    "prettier-plugin-packagejson": "^2.3.0",
+    "prettier-plugin-tailwindcss": "^0.2.0"
+  }
 }
