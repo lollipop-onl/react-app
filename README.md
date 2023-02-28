@@ -1,6 +1,6 @@
 # react-app
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/lollipop-onl/react-app?title='React with Vite, TypeScript, TailwindCSS')
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/lollipop-onl/react-app?title=React+with+Vite,+TypeScript,+TailwindCSS)
 
 This is a React application template <small>with Vite, TypeScript, TailwindCSS and daisyUI</small>
 
