@@ -22,6 +22,14 @@ yarn install --frozen-lockfile
 yarn dev
 ```
 
+## Links
+
+- [React Docs Beta](https://beta.reactjs.org/)
+- [Vite | Next Generation Frontend Tooling](https://vitejs.dev/)
+- [TypeScript: JavaScript With Syntax For Types.](https://www.typescriptlang.org/)
+- [Tailwind CSS - Rapidly build modern websites without ever leaving your HTML.](https://tailwindcss.com/)
+- [daisyUI — Tailwind CSS Components](https://daisyui.com/)
+
 ## License
 
 MIT
