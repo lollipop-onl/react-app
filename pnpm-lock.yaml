@@ -32,8 +32,8 @@ devDependencies:
     specifier: ^10.4.16
     version: 10.4.16(postcss@8.4.30)
   daisyui:
-    specifier: ^3.8.0
-    version: 3.8.0
+    specifier: ^3.9.3
+    version: 3.9.3
   postcss:
     specifier: ^8.4.30
     version: 8.4.30
@@ -812,8 +812,8 @@ packages:
     resolution: {integrity: sha512-I7K1Uu0MBPzaFKg4nI5Q7Vs2t+3gWWW648spaF+Rg7pI9ds18Ugn+lvg4SHczUdKlHI5LWBXyqfS8+DufyBsgQ==}
     dev: true
 
-  /daisyui@3.8.0:
-    resolution: {integrity: sha512-VsWD//XlHkOBFSiRNTOZTxTJ/W8xI65erowErfbDWrPTkMYqf0ee/FTaqn4rquZoCcumENdFegAL8eELMnztxQ==}
+  /daisyui@3.9.3:
+    resolution: {integrity: sha512-8li177QCu6dqlEOzE3h/dAV1y9Movbjx5bzJIO/hNqMNZtJkbHM0trjTzbDejV7N57eNGdjBvAGtxZYKzS4jow==}
     engines: {node: '>=16.9.0'}
     dependencies:
       colord: 2.9.3
