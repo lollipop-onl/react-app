@@ -15,11 +15,11 @@ cd my-project
 ```
 
 ```shell
-yarn install --frozen-lockfile
+pnpm install --frozen-lockfile
 ```
 
 ```shell
-yarn dev
+pnpm run dev
 ```
 
 ## Links
