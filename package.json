@@ -21,7 +21,7 @@
   },
   "devDependencies": {
     "@tailwindcss/typography": "^0.5.10",
-    "@tsconfig/vite-react": "^3.0.0",
+    "@tsconfig/vite-react": "^3.0.2",
     "@types/react": "^18.2.73",
     "@types/react-dom": "^18.2.19",
     "@vitejs/plugin-react": "^4.2.1",
